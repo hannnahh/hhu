@@ -1,0 +1,28 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vila.com" resolutions="1x" timestamp="1581537803376">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3879003429" ref="index"/>
+    <file name="sin-t_tulo-2.css" crc="4159931890" ref="sin-título-2"/>
+  </folder>
+  <folder name="assets">
+    <file name="wind_in_her_hairlittle_435532-(1).jpg" crc="449421955" seo="true" mt="1581177991000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sin-título-2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:sin-título-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sin-título-2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:sin-título-2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:sin-título-2"/>
+    <file name="require.js" crc="4157109226" ref="index:sin-título-2"/>
+  </folder>
+  <folder name="images">
+    <file name="wind_in_her_hairlittle_435532.jpg" crc="349879250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faces.jpg" crc="4031317318" seo="true" ref="sin-título-2">
+      <caption webpage="sin-título-2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="330778307" seo="true" mt="1581537247806" redirect="true"/>
+  <file name="sin-título-2.html" crc="4052254523" seo="true" mt="1581537784515" redirect="true"/>
+</manifest>
